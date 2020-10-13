@@ -1,4 +1,6 @@
 # gatsby
 learning gatsby
 
-v4
+
+This repo will hose content from the learn gatsby course
+
