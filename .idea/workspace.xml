@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50b3215d-702c-4495-bc12-d25f2d6a01da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gatsby/gatsby-browser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby/gatsby-ssr.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/api-runner-browser-plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/api-runner-browser-plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/api-runner-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/api-runner-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/api-runner-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/api-runner-ssr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/api-ssr-docs.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/api-ssr-docs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/babelState.json" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/babelState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-runner-browser-plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-runner-browser-plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-runner-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-runner-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-runner-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-runner-ssr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-ssr-docs.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/api-ssr-docs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/create-react-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/create-react-context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/default-html.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/default-html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/dev-loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/dev-loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/develop-static-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/develop-static-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/emitter.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/emitter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/ensure-resources.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/ensure-resources.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/error-overlay-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/error-overlay-handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/find-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/find-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/gatsby-browser-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/gatsby-browser-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/normalize-page-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/normalize-page-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/page-renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/page-renderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/polyfill-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/polyfill-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/prefetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/prefetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/production-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/production-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/public-page-renderer-dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/public-page-renderer-dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/public-page-renderer-prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/public-page-renderer-prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/public-page-renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/public-page-renderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/query-result-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/query-result-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/react-lifecycles-compat.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/react-lifecycles-compat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/register-service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/register-service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/root.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/route-announcer-props.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/route-announcer-props.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/socketIo.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/socketIo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/static-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/static-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/commonjs/strip-prefix.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/commonjs/strip-prefix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/create-react-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/create-react-context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/default-html.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/default-html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/dev-404-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/dev-404-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/dev-loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/dev-loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/develop-static-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/develop-static-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/emitter.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/emitter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/ensure-resources.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/ensure-resources.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/error-overlay-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/error-overlay-handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/find-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/find-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/gatsby-browser-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/gatsby-browser-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/json/_Me_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/json/_beersPage copy_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/json/_beersPage_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/json/_mePage_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/json/_ordersPage copy_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/normalize-page-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/normalize-page-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/page-renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/page-renderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/pages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/polyfill-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/polyfill-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/prefetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/prefetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/production-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/production-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/public-page-renderer-dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/public-page-renderer-dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/public-page-renderer-prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/public-page-renderer-prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/public-page-renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/public-page-renderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/query-result-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/query-result-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/react-lifecycles-compat.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/react-lifecycles-compat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/redux/redux.node.state_0" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/redux/redux.node.state_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/redux/redux.rest.state" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/redux/redux.rest.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/register-service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/register-service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/root.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/route-announcer-props.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/route-announcer-props.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/socketIo.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/socketIo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/static-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/static-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/strip-prefix.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/strip-prefix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/test-require-error.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/.cache/test-require-error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-325434-5hHD5UF4EKA7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-325434-cLRUJb094CEY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-325839-CjBcdNxj7FeN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-325839-GaWwHe3eWnI4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-326815-2PLaXyBZmKd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-326815-ILLBk8RBqA4C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-328912-4BERh5mdHid5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/tmp-328912-cewYpH3pJiqF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/03b9bb42305c40985f4d724e169d4576.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/041bd9af9214d55f49a558dade3b54b1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/041e4b4ae129f0d92d3b9d37bd3fcc70.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/0d62cc3be67f21daa3758c25b2869e2c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/10aed28005a16942852fde9c6bdecc12.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/139e9eca461e75368aabd1806a92560c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/14a0d39d99e076653c46a2f78ef226d6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/1507997dea986fbc860d3cc5b9033eb8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/1775a4ee630ca125d2c06e8d5026e4ae.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/189e6e4762e14bbd9ee4db7ffe31095b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/1a7ffe3364bfbd2c6e67894c216f54dc.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/1b0b975e064cfb1a01fdcfbbfdd38063.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/1b58282f20855db72983e0df36aa8e2b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/23d1d4cf2d2f12a68e6583ff773b184c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/240ad6893dc0d086347f4462209f3982.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/26a5fe809be7460f103a5d3cd57eec96.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/26a82a1ffb4464207c364d2cfd373abb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/27076decbc0bb528aa997df0e3a9377f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/270a222885fd2d950774089b6e84fae4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/2a6e19fa22073fd149f98d677d5551c2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/2de09d970e4443a829d2bc27e4445638.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/2de78bbbe53f1597b43990a794c9a96c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/2e5fa53cdfc913a4293c5c4f38a1023c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/2f6f273cad4c4f87ae1a5fbf4cc46a84.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/3228f15170a4a590243db7c37692740f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/34babd20b73cc086a0c017e7b762c9ad.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/34bfbdbaf4439b8e9b4d95af4514013d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/34fac935d193a99e7bebf4ff4e627a3e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/3629a8137cda2615f7a7668f76937b91.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/39de4b852a010b14df85874bc44ad968.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/4028f9cb9a47e0d3ced3119e244f7cc1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/40e064326b29a61908864262519051db.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/41212b1b277035b756d186ef3141c0a9.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/41b9d037a9e1582c779ab347b4086564.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/41e2a10a6e41fae911617236d3a17b96.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/420e7383e1750feacbc4e4ec27c10e1e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/437ec5068a22194feaf52d879d6afb74.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/43a930699dbbe518cbe9e70fe662cb64.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/46a5ef5e9108268217774b2091002a05.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/47a06d8bff4ccfa46d3a732de0eecb7f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/4a3d2815212e4574c6effb45a19743a2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/4e7fc255b111c99462bd9e8472148deb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/51774a9d76b88895b31d1d2219072d86.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/51a5acb4049e3e8f028c9c6473108d51.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/52afeb22edf85cc8fcbf4867396be796.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/57d0f7f087d086b4e6543d62c37925ef.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/58447e2522020b654618a115ede17aaf.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/5974c227a8209469969c546b36fc8e24.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/59e05e9362905e9c3d857b7b7f5ffafe.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/5a6e1530f8becc81d0080ce6dc0d4880.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/5a83ea085bc93202715936352eb9fdbd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/5b88630016ae17bc0260db45c1c74caa.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/5d2e848b8c9ea5f61b97a4d32b74f750.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/62ad3a8f63880eed6688bb8c0631a972.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/63e71ee65f746c36dad7758a7fb199f8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/647cc713d56d01fd7aa84a957ad31983.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/65a6a6149aade355cced3e1bc2853fa3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/65f7da5ce7fc891bce3120a8b4d6b3d4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/6638fe5bcc4869ff4e012b952fbe277b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/679b74b72cff987b9cdaaae463141c16.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/684c99faed8c2f21450791bab566effc.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/6abcdabd499f8dfc5962575cf71af2d4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/6ed1957598434ef74618443ea73799ec.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/7217605e39652635ed15dfc30217fbb4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/75d775e760e6ee56d0e1da3a68d3e2cd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/763bb49c576178caedff7a939eed6447.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/768fc270bd8709c1491327acffb13a6c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/779e6f0cec8d8d7fbf0c8ce82da3829e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/77de03bbf622d641e04458616c530c16.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/7859632bb55630eefec06f47ec5e1943.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/78f3feb716190ddf4e0b3b371be34850.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/7c8db673c128ac4fff7cc34cd6070b90.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/7d6ba167bcdf9e297bc091bae58817ac.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/7e73d4285a448d90ca3940cce2e18341.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/800dfb6b3deef826f042cff2a69a96a1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/81240a3009744b66052e4f85262fc7d7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/81779a97810b57cf6ddde469df05fcdd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/818c8e1ccb6c5a301e790a3dda06f679.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/826a4939edd842c58059873309e13bdb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/82b42f8eee87f274f5ccf6356f906723.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/840350b3c38b6169dccb606e86a044d1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/86a7b70d9fc9a80796a56cc7893b9aad.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/88025999cf19487fe958c35f9eda1e20.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/884937be1ae6957d43cb4376f36c8136.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/88b380e67b394553eff385f5c3c69a0f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/88d08eb34a92c88c3cf8e33c5cb69025.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/896d36563411f355fe93ba7be5dde31c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/8f9c0061374d0c1130077516a2dba338.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/90347e3d851f99dfd271665bf898c89c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/9037f34d9b9f1d4c8dca31f0fdd3a0e7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/9241c982474b150b249db80589a95313.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/935a58afe3b682b39ab07e20ede3cfd3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/9500d912783cdb1962e3053e9c3dc45a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/95049bd1a13de8d898a4213644ca4098.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/964aa778cca9ab0262d5687b8adfa412.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/98f7cc5eaade6aafea73abfbf8df1853.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/998c720c099df5a4fc007e0e785db717.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/9baf5d195f641528177b43d83aa119ec.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/a09dc4ffae3b479ee255990402eb5113.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/a2c709bb46e5922126ba076a33ab4478.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/a2de44892185cb5320bf78a350554896.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/a5bff7872f02383f68425a78ccf48d1a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/a69206e197cb1595e54a6b6e4882ee99.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/aaf228483419c3b566ce3ef5b1577505.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/af29c997204326ff777f6446072bc17b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/b3c758c7d90638a4b9a2d4e1fe6dace8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/b4b7b24cba95c57cc7e9d228283cfb99.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/b64ec6645cf11bad38442cd4553a5bd2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/b8be25d052914ad3596f02842ce70cf6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/bf3e09a61d97534b12c053f5ec58a5c8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c0e1eb3afd23d9092c0904bd594ba683.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c1c176a134651e44592c78b26628b248.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c1e0f409fc5c39c669815e63018d81e3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c222f66315def34c18637375a03d1330.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c438d05760cb377b67dca5c9803c0f6b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c502e7a8127bca1684d65ceb36b3c7d5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c61ed8eab25ff4a149595a3706f9f21a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c69e52e20d7a8910111ae252f8892860.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c6a3faa06771cb0d6da693e5f199cb3b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c7a46b0870f91687e7b08d6da815c0e8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c8556f80e15593d9cb8a68be5950783e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/c8ac4fc735accdb90f73637395fd56c1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/d0b20af8777120eff6d4b6487e281269.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/d0c7a84a66e96b709a1e990d8f3dca94.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/d1dc9d1740019e2fe901f188cee9c4f8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/d4917e5a832c8707339a35b940e60a7f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/d731b8846187d2f27ac8b08e8cae27bd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/d8800f58f0b9b83babb6fcb1bad916cd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/dd92fba44c19e80410663a92c51bd331.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/ddab40ef291d3d9cc34034fe38907638.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/df163af9096d9807c046529aef9e0ab8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/df223cde1a1e762906cd650226006393.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/e107e233532146d71414c80ebe968a3e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/e51bff4262a83725c5edccc01f2b451d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/e6b33cbd631a8d24f3428cbd31168b52.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/e9da8e486222b20f8d229aa7d2dc7510.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/ea5c35036637895e8c93e30e65c6575f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/ec37512d5cdea6491022f4f31628efec.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/ec521905f305cdfebe4d205936bd1f56.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/f1b7adddc2a228f3ef6a3f11e108363c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/f25c39d7337a2d0a1b67e2474636359e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/f2ea1ab6290c728315f2d4af0719aaeb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/f39d1ae2e2a752ae027e287f39b70720.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/f815ff323cc0521b7e25d1e34b22641b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/f8b3299c66858ba507e85f3fc8ee5cc5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/fa30d7a6819d2715617e55d3071f5046.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/fd85ae7453fdca1d375b1401d6f30b68.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/fe7b9facb5672bd2280142522db88b61.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/fe9473a8cf038d255634e7375d7e4336.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/fec94a79c61e0a14b7a8b8c819947e68.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/ff57e04f7678863807766d4a467836d7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/.cache/webpack/babel/fff81726974f965b4e139b22b696bd5c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/public/page-data/Me/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/public/page-data/Me/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/pages/beers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/pages/beers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/pages/orders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/pages/orders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/pages/pizzas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/pages/pizzas.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/pages/sliceMasters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/pages/sliceMasters.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ivO9h312abawhSpysn2bq1cgGX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/brave" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50b3215d-702c-4495-bc12-d25f2d6a01da" name="Default Changelist" comment="" />
+      <created>1602784448226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602784448226</updated>
+      <workItem from="1602784449307" duration="4707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="185" key="SettingsEditor" timestamp="1602788198831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602788198831" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602788899590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602788899590" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1602788096030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602788096030" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1602789662466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602789662466" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1602788188978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602788188978" />
+  </component>
+</project>
